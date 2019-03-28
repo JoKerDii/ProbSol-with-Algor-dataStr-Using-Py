@@ -8,3 +8,6 @@ And the detailed explanations of all steps allow me to quickly catch on.
 
 I took notes of some of the cases.
 [Here](http://interactivepython.org/runestone/static/pythonds/index.html) you can find the interactive textbook.
+
+
+-- Jan, 2019
